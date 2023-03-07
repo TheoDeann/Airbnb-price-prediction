@@ -1,5 +1,5 @@
 # Airbnb-price-prediction
-Ensemble project
+Ensemble Learning project - DSBA ESSEC & Centrale Supélec
 
 The data set for this project is obtained from Kaggle and contains the listings in New York City in 2019. The data set includes 15 features on listings, including:
 • Name of the listing • Neighborhood
